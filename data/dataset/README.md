@@ -1,9 +1,7 @@
 
 # JNSGSL Dataset Preparation Instructions
 
-Due to the large size of the datasets, we do not upload them directly to this repository.
-
-You can follow the steps below to prepare the dataset for use:
+Due to the large size of the datasets, we only provide compressed packages. If you want to download the datasets, please follow the steps below.
 
 1. **Download the dataset**  
    Use the script located at:
